@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <h1>Learn React</h1>
-      <p>This is my project</p>
+      <p className='bg-yellow-600'>This is my project</p>
     </>
   )
 }
